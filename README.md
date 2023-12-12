@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](https://prnt.sc/APqrCAsb0NSC)
 
 ### Links
 
@@ -56,4 +56,4 @@ I learned how to use redux, creating and editing global states.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Webabil)
+- Frontend Mentor - [@Webabil](https://www.frontendmentor.io/profile/Webabil)
